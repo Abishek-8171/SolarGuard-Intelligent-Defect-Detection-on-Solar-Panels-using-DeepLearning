@@ -13,4 +13,8 @@ Preprocessing steps such as resizing, normalization, and augmentation were perfo
 - Train-Test Split: The dataset was split into training and validation/test sets to evaluate model performance effectively.
 # Frameworks
 ![framewors](https://github.com/user-attachments/assets/cde908f4-e78e-4d60-9189-b0baa13fc6f9)
- 
+# 🧠 Model Building
+Two deep learning models were developed and evaluated for classifying solar panel images:
+- Custom Convolutional Neural Network (CNN)
+- Transfer Learning with ResNet18
+
