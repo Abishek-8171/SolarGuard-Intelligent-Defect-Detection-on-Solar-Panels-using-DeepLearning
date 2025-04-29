@@ -28,7 +28,11 @@ Two deep learning models were developed and evaluated for classifying solar pane
 ## Transfer Learning with ResNet18
 ![Screenshot (92)](https://github.com/user-attachments/assets/e827d4d0-101d-4f6a-a3f1-994778363d12)
 ![confusion_matrix](https://github.com/user-attachments/assets/b2127da8-1654-41b2-951f-398b23ac2388)
+### Classification Report
 ![Screenshot (86)](https://github.com/user-attachments/assets/559cddfd-d5fc-470f-9448-9d7a12431cdd)
+
+# Streamlit app
+![Screenshot (93)](https://github.com/user-attachments/assets/6b6ab231-a309-499d-b507-ad6b28b8c91f)
 
 
 
